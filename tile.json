@@ -1,0 +1,6 @@
+{
+  "tiles":["https://hfujimura.gitlab.io/uga1801/{z}/{x}/{y}.mvt"],
+  "attribution":"&copy; OpenMapTiles &copy; OpenStreetMap contributors",
+  "maxzoom":14,
+  "tilejson":"2.2.0"
+}
